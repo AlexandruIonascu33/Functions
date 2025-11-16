@@ -1,0 +1,4 @@
+# Write a function greet_person(name) that returns the message “Hello, NAME!”.
+# Ask the user for their name and print the returned message.
+    
+# Write your code here:
