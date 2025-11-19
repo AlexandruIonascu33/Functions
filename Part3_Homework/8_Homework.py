@@ -1,4 +1,4 @@
-# 1. Write a function called calculate_grade(score)
+# 1.(Mandatory) Write a function called calculate_grade(score)
 #    that RETURNS the correct letter grade:
 #       90+ -> A
 #       80-89 -> B
